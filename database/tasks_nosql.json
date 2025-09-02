@@ -1,0 +1,6 @@
+{
+  "_id": "unique_task_id_001",
+  "title": "Study JavaScript",
+  "description": "Finish task manager project",
+  "isCompleted": false
+}
